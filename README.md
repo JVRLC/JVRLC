@@ -1,6 +1,6 @@
 ### Bonjour, je suis Serigne. 🟣
 
-![visiteurs](https://visitor-badge.laobi.icu/badge?page_id=JVRLC.JVRLC&left_text=visiteurs&left_color=%23595959&right_color=%231283c3&logo=github&format=true&radius=3)
+
 
 Je travaille sur ce qui rend une donnée fiable avant qu'elle ne soit belle : sa définition, sa structure, sa cohérence d'une source à l'autre, et la documentation qui permet à chacun de savoir ce qu'elle signifie. Un tableau de bord n'a de valeur que si les chiffres qu'il affiche sont ceux auxquels on peut faire confiance.
 
@@ -17,3 +17,5 @@ J'aime travailler avec des gens qui pensent en systèmes, qui préfèrent la cla
 **Outils :** Power BI · SQL · PostgreSQL · OpenSearch · ETL · PowerShell · XML-RPC
 
 [LinkedIn](https://www.linkedin.com/in/serigne-mbaye-datascientist) · [ssalioub.mbaye@gmail.com](mailto:ssalioub.mbaye@gmail.com)
+
+![visiteurs](https://visitor-badge.laobi.icu/badge?page_id=JVRLC.JVRLC&left_text=visiteurs&left_color=%23595959&right_color=%231283c3&logo=github&format=true&radius=3)

@@ -14,8 +14,8 @@ Ma conviction : la plupart des problèmes de données sont organisationnels avan
 
 J'aime travailler avec des gens qui pensent en systèmes, qui préfèrent la clarté à l'astuce, et qui se soucient de la forme que prendront durablement les choses qu'ils construisent.
 
-**Outils :** Power BI · SQL · PostgreSQL · OpenSearch · ETL · PowerShell · XML-RPC
+**Outils :** Power BI · SQL · PostgreSQL · OpenSearch · ETL · PowerShell · XML-RPC · Odoo
 
-[LinkedIn](https://www.linkedin.com/in/serigne-mbaye-datascientist) · [ssalioub.mbaye@gmail.com](mailto:ssalioub.mbaye@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/serigne-mbaye-datascientist) · [Email](mailto:ssalioub.mbaye@gmail.com)
 
 ![visiteurs](https://visitor-badge.laobi.icu/badge?page_id=JVRLC.JVRLC&left_text=visiteurs&left_color=%23595959&right_color=%231283c3&logo=github&format=true&radius=3)
